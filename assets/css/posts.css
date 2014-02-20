@@ -1,0 +1,13 @@
+#container {
+	padding: 15px;
+}
+
+.allposts {
+	padding: 10px;
+	border: 1px solid black;
+	height: 200px;
+	width: 200px;
+	margin: 5px;
+	overflow: auto;
+	display: inline-block;
+}
